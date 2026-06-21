@@ -1,32 +1,32 @@
 ---
-title: 🚁 Drone Master Class
+title: 🚁 Drone Curriculum
 tags:
   - home
   - index
   - drone-technology
 ---
 
-# 🚁 Drone Master Class
+# 🚁 Drone Curriculum
 
 Welcome to **Understanding Drone Technology from First Principles**. 
 
-This 7-module master class is a comprehensive guide to modern drone systems, covering everything from core physics to global regulations and future trends.
+This 7-module curriculum is a comprehensive guide to modern drone systems, covering everything from core physics to global regulations and future trends.
 
 ## 📚 Table of Contents
 
-- **[[Drone Master Class/Module 1 - Introduction/1.0 Module Overview|Module 1 - Introduction]]**
+- **[[Drone Curriculum/Module 1 - Introduction/1.0 Module Overview|Module 1 - Introduction]]**
   *The foundations of drone flight and history.*
-- **[[Drone Master Class/Module 2 - Hardware/2.0 Module Overview|Module 2 - Hardware]]**
+- **[[Drone Curriculum/Module 2 - Hardware/2.0 Module Overview|Module 2 - Hardware]]**
   *Aerodynamics, propulsion, frames, and sensors.*
-- **[[Drone Master Class/Module 3 - Software/3.0 Module Overview|Module 3 - Software]]**
+- **[[Drone Curriculum/Module 3 - Software/3.0 Module Overview|Module 3 - Software]]**
   *Flight control algorithms, MAVLink, and AI integration.*
-- **[[Drone Master Class/Module 4 - Use Cases/4.0 Module Overview|Module 4 - Use Cases]]**
+- **[[Drone Curriculum/Module 4 - Use Cases/4.0 Module Overview|Module 4 - Use Cases]]**
   *Agriculture, logistics, defense, and entertainment.*
-- **[[Drone Master Class/Module 5 - Commercialization/5.0 Module Overview|Module 5 - Commercialization]]**
+- **[[Drone Curriculum/Module 5 - Commercialization/5.0 Module Overview|Module 5 - Commercialization]]**
   *Building a drone business and financial models.*
-- **[[Drone Master Class/Module 6 - Regulations/6.0 Module Overview|Module 6 - Regulations]]**
+- **[[Drone Curriculum/Module 6 - Regulations/6.0 Module Overview|Module 6 - Regulations]]**
   *Global and local (Kenyan) UAS policies and safety.*
-- **[[Drone Master Class/Module 7 - The Future/7.0 Module Overview|Module 7 - The Future]]**
+- **[[Drone Curriculum/Module 7 - The Future/7.0 Module Overview|Module 7 - The Future]]**
   *Swarm intelligence, hydrogen propulsion, and UAM.*
 
 ---

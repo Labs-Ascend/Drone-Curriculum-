@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚁 Drone Masterclass
+# 🚁 Drone Curriculum
 **Understanding Drone Technology from First Principles**
 
 [![Made for Obsidian](https://img.shields.io/badge/Made%20for-Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](#obsidian-compatibility)
@@ -13,11 +13,11 @@
 
 ---
 
-## 📖 About the Masterclass
+## 📖 About the Curriculum
 
-This repository contains the complete curriculum for the **Drone Technology Masterclass**. It is designed to take learners from absolute beginners to advanced practitioners by breaking down complex drone systems into first principles.
+This repository contains the complete curriculum for the **Drone Technology Curriculum**. It is designed to take learners from absolute beginners to advanced practitioners by breaking down complex drone systems into first principles.
 
-Whether you are an engineer, a pilot, or an entrepreneur, this masterclass provides a deeply technical yet accessible exploration of the unmanned aerial vehicle (UAV) landscape.
+Whether you are an engineer, a pilot, or an entrepreneur, this curriculum provides a deeply technical yet accessible exploration of the unmanned aerial vehicle (UAV) landscape.
 
 ### 🌟 Key Features
 - **7 Comprehensive Modules:** Covering hardware, software, regulations, and future trends.
@@ -29,7 +29,7 @@ Whether you are an engineer, a pilot, or an entrepreneur, this masterclass provi
 
 ## 📚 Curriculum Overview
 
-The masterclass is divided into 7 core modules:
+The curriculum is divided into 7 core modules:
 
 - 🟢 **Module 1 - Introduction:** The foundations of drone flight, physics, and history.
 - ⚙️ **Module 2 - Hardware:** Aerodynamics, propulsion systems, frames, and sensors.
@@ -49,9 +49,9 @@ This entire curriculum was built natively as an **Obsidian Vault**. It takes ful
 1. **Download Obsidian:** If you haven't already, download [Obsidian](https://obsidian.md/).
 2. **Clone the Repository:** 
    ```bash
-   git clone https://github.com/Ambrosemweu/DroneMasterclass.git
+   git clone https://github.com/Labs-Ascend/Drone-Curriculum-.git
    ```
-3. **Open as a Vault:** Open Obsidian, select **"Open folder as vault"**, and choose the cloned `DroneMasterclass` folder.
+3. **Open as a Vault:** Open Obsidian, select **"Open folder as vault"**, and choose the cloned `Drone-Curriculum-` folder.
 4. **Start Learning:** Open `index.md` as your starting point!
 
 ### Why use Obsidian for this course?

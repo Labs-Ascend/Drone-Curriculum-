@@ -1,7 +1,7 @@
-# 🚁 Drone Master Class
+# 🚁 Drone Curriculum
 
 Welcome to **Understanding Drone Technology from First Principles**. 
-This 7-module master class covers everything from basic aerodynamics to Kenyan drone regulations, advanced autonomous swarms, and commercial drone deployment.
+This 7-module curriculum covers everything from basic aerodynamics to Kenyan drone regulations, advanced autonomous swarms, and commercial drone deployment.
 
 ## Course Modules
 - [[Module 1 - Introduction/1.0 Module Overview|Module 1 - Introduction]]
