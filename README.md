@@ -68,6 +68,10 @@ This repository is curated entirely from the Drone Technology Research Vault.
 
 If you spot a typo, have updated regulatory information, or want to contribute a new case study, feel free to open a Pull Request!
 
+## 📄 License
+
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
 ---
 
 <div align="center">
