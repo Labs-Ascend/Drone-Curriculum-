@@ -14,19 +14,19 @@ This 7-module curriculum is a comprehensive guide to modern drone systems, cover
 
 ## 📚 Table of Contents
 
-- **[[Drone Curriculum/Module 1 - Introduction/1.0 Module Overview|Module 1 - Introduction]]**
+- **[[Module 1 - Introduction/1.0 Module Overview|Module 1 - Introduction]]**
   *The foundations of drone flight and history.*
-- **[[Drone Curriculum/Module 2 - Hardware/2.0 Module Overview|Module 2 - Hardware]]**
+- **[[Module 2 - Hardware/2.0 Module Overview|Module 2 - Hardware]]**
   *Aerodynamics, propulsion, frames, and sensors.*
-- **[[Drone Curriculum/Module 3 - Software/3.0 Module Overview|Module 3 - Software]]**
+- **[[Module 3 - Software/3.0 Module Overview|Module 3 - Software]]**
   *Flight control algorithms, MAVLink, and AI integration.*
-- **[[Drone Curriculum/Module 4 - Use Cases/4.0 Module Overview|Module 4 - Use Cases]]**
+- **[[Module 4 - Use Cases/4.0 Module Overview|Module 4 - Use Cases]]**
   *Agriculture, logistics, defense, and entertainment.*
-- **[[Drone Curriculum/Module 5 - Commercialization/5.0 Module Overview|Module 5 - Commercialization]]**
+- **[[Module 5 - Commercialization/5.0 Module Overview|Module 5 - Commercialization]]**
   *Building a drone business and financial models.*
-- **[[Drone Curriculum/Module 6 - Regulations/6.0 Module Overview|Module 6 - Regulations]]**
+- **[[Module 6 - Regulations/6.0 Module Overview|Module 6 - Regulations]]**
   *Global and local (Kenyan) UAS policies and safety.*
-- **[[Drone Curriculum/Module 7 - The Future/7.0 Module Overview|Module 7 - The Future]]**
+- **[[Module 7 - The Future/7.0 Module Overview|Module 7 - The Future]]**
   *Swarm intelligence, hydrogen propulsion, and UAM.*
 
 ---
